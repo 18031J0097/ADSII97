@@ -1,0 +1,33 @@
+Fill in the blanks-1
+Write true/false, for the following statements.
+
+1.A tree is cyclic connected graph.
+Answer:false
+2.The degree of a vertex is the number of edges incident on it.
+Answer:true
+3.Two edges are parallel if they connect the same pair of vertices.
+Answer:true
+4.A self-loop is an edge that connects a vertex to itself.
+Answer:true
+5.An acyclic graph is a graph with cycles.
+Answer:false
+6.The degree of a vertex is the number of incident edges
+Answer:false
+
+Fill in the blanks-2
+Below is the Un directed Graph, Answer the following questions based on the graph.
+Note : Write null, if there are no adjacent vertices. Write the vertices separated by comma and space.
+
+Write all the vertices in ascending order, which are adjacent to vertex 0 ?
+Answer:1,2,5,6
+Write all the vertices in ascending order, which are adjacent to vertex 7 ?
+Answer:8
+Write all the vertices in ascending order, which are adjacent to vertex 9 ?
+Answer:10,11,12
+Write all the vertices in ascending order, which are adjacent to vertex 13 ?
+Answer:null
+
+
+
+
+          
