@@ -1,0 +1,5 @@
+Leaning by doing-1
+What is the maximum number of edges in a digraph with V vertices and no parallel edges? What is the minimum number of edges in a digraph with V vertices, none of which are isolated?
+Answer:
+For maximum=n*(n-1)
+for minimum=1*(n-1)
