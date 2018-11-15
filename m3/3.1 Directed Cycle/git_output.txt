@@ -1,0 +1,12 @@
+[master c5c23de] "ads2_m3_a1_1: 8/8 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+ 2 files changed, 2 insertions(+)
+ create mode 100644 m3/3.1 Directed Cycle/md5/score.txt
+ create mode 100644 m3/3.1 Directed Cycle/result/score.json
+To https://github.com/18031J0097/ADSII97.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/18031J0097/ADSII97.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
