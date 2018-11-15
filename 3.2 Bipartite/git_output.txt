@@ -1,0 +1,10 @@
+[master 1b4acfe] "ads2_m3_a2_1: 4/5 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+ 1 file changed, 74 deletions(-)
+ rewrite m3/3.2 Bipartite/git_output.txt (100%)
+To https://github.com/18031J0097/ADSII97.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/18031J0097/ADSII97.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
